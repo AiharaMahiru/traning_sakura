@@ -5,10 +5,8 @@
 
 <!DOCTYPE html>
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="512" height="512" title="图片title">
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="384" height="384" title="图片title">
 
-
-https://i.pximg.net/user-profile/img/2022/09/18/09/02/56/23347135_0292d12b047782a073ae50a2d6370c74_170.jpg
 イラストレーター・漫画家。
 メルヘンファンタジーな世界観を得意とし、
 技法書執筆や、児童向け書籍、装画、キャラクターデザイン、ゲームイラストなど幅広く活動中。

@@ -56,3 +56,4 @@
 - [x] traning to 12w+
 - [ ] Optimization of image pre-processing
 - [ ] Optimize the number of training steps
+- [x] Welcome everyone to submit pr and issues to improve

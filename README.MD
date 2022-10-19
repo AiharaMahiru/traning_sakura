@@ -2,7 +2,7 @@
 
 ## WHO IS Sakura_Oriko?
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="384" height="384" title="图片title">
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="384" height="384" title="title">
 
 イラストレーター・漫画家。
 メルヘンファンタジーな世界観を得意とし、
@@ -29,10 +29,15 @@
 
 <ol>
 <li>10000+ steps</li>
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="120" height="120" title="图片title"><img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="120" height="120" title="图片title"><img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="120" height="120" title="图片title">
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+</pr>
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/18000-1.png" width="160" height="160" title="title">
+<li>28000 steps+</li>
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/28000-1.png" width="160" height="160" title="title">
+<li>110000 steps+</li>
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/118500-1.png" width="160" height="160" title="title">
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/110000-1.png" width="160" height="160" title="title">
+<li>118500 steps+</li>
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/118500-1.png" width="160" height="160" title="title">
 </ol>
 
 ### Extra Tips:

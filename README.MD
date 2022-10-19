@@ -28,7 +28,7 @@
 ## Training demonstration
 
 <ol>
-<li>10000+ steps</li>
+<li>18000+ steps</li>
 </pr>
 <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/18000-1.png" width="240" height="240" title="title">
 <li>28000 steps+</li>

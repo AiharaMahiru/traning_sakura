@@ -5,7 +5,7 @@
 
 <!DOCTYPE html>
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" alt="图片alt" title="图片title">
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="512" height="512" title="图片title">
 
 
 https://i.pximg.net/user-profile/img/2022/09/18/09/02/56/23347135_0292d12b047782a073ae50a2d6370c74_170.jpg

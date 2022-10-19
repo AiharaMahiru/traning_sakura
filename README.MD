@@ -33,7 +33,20 @@
 
 
 
-## 
+## How to use？
+
+### First you need an AI platform you can use
+
+Learn and use it! ：Stable Diffusion web UI
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+### Download and use personalized data sets
+All training files are in ` \file_pt `
+
+The file name stands for: `personalized name` + `number of training sessions`
+
+Usage: Type `art by zuocangcg` in the prompt
+
 
 ## Training demonstration
 

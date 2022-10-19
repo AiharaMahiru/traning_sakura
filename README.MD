@@ -31,20 +31,22 @@
 
 ## Training demonstration
 
-### 18000 steps+ 
+| 18000 steps+       | 28000 steps+ |
+| ----------- | ----------- |
+| <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/18000-1.png" width="240" height="240" title="title">    | <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/28000-1.png" width="240" height="240" title="title">       |
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/18000-1.png" width="240" height="240" title="title">
+| 110000 steps+     | +++ |
+| ----------- | ----------- |
+| <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/110000-1.png" width="240" height="240" title="title">     | <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/110000-2.png" width="240" height="240" title="title">      |
 
-### 28000 steps+
+| 118500 steps+     |  
+| ----------- |
+| <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/118500-1.png" width="240" height="240" title="title">| 
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/28000-1.png" width="240" height="240" title="title">
 
-### 110000 steps+
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/110000-1.png" width="240" height="240" title="title">
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/110000-2.png" width="240" height="240" title="title">
 
-### 118500 steps+
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/118500-1.png" width="240" height="240" title="title">
+
+
 
 
 ## Extra Tips:

@@ -2,7 +2,9 @@
 
 ## WHO IS Sakura_Oriko?
 
-<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="384" height="384" title="title">
+<div align=center>
+<img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="320" height="320" title="title">
+</div>
 
 イラストレーター・漫画家。
 メルヘンファンタジーな世界観を得意とし、
@@ -25,6 +27,8 @@
 『メルヘンファンタジーな女の子のキャラデザ＆作画テクニック』
 （玄光社）
 
+## 
+
 ## Training demonstration
 
 ### 18000 steps+ 
@@ -43,5 +47,5 @@
 <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/118500-1.png" width="240" height="240" title="title">
 
 
-### Extra Tips:
+## Extra Tips:
 

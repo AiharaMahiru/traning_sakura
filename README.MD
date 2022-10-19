@@ -6,6 +6,7 @@
 <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="320" height="320" title="title">
 </div>
 
+```
 イラストレーター・漫画家。
 メルヘンファンタジーな世界観を得意とし、
 技法書執筆や、児童向け書籍、装画、キャラクターデザイン、ゲームイラストなど幅広く活動中。
@@ -26,6 +27,7 @@
 『メルヘンでかわいい女の子の衣装デザインカタログ』
 『メルヘンファンタジーな女の子のキャラデザ＆作画テクニック』
 （玄光社）
+```
 
 ## 
 

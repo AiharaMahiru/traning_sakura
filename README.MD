@@ -2,9 +2,9 @@
 
 ## WHO IS Sakura_Oriko?
 
-<div align=center>
+<!-- <div align=center>
 <img src="https://github.com/ShiinaMono/sakura_oriko/blob/master/pictures/skara.jpeg" width="300" height="300" title="title">
-</div>
+</div> -->
 
 <details>
 <summary> Artist Profile </summary>
